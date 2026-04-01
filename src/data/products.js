@@ -81,11 +81,11 @@ export const products = [
     price: 249.99,
     priceDiscount: 179.99,
     description: "Tênis New Balance clássico e versátil.",
-    image: "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/new-balance/masculino/tenis-new-balance-574-v2-masculino-vinho---cinza-8784-24-01-24-00-1200x1200.jpg",
+    image: "https://newbrasil.vtexassets.com/arquivos/ids/198977/U53052N_202.jpg?v=639057230221900000",
     images: [
-      { src: "https://imgnewbalance-a.akamaihd.net/360x360/0163500WA1.jpg" },
-      { src: "https://imgnewbalance-a.akamaihd.net/360x360/0163500WA1_1.jpg" },
-      { src: "https://imgnewbalance-a.akamaihd.net/360x360/0163500WA1_2.jpg" }
+      { src: "https://newbrasil.vtexassets.com/arquivos/ids/198977-1200-auto?v=639057230221900000&width=1200&height=auto&aspect=true" },
+      { src: "https://newbrasil.vtexassets.com/arquivos/ids/198978-1200-auto?v=639057230221900000&width=1200&height=auto&aspect=true" },
+      { src: "https://newbrasil.vtexassets.com/arquivos/ids/198980-1200-auto?v=639057230222030000&width=1200&height=auto&aspect=true" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -105,11 +105,11 @@ export const products = [
     price: 399.99,
     priceDiscount: 299.99,
     description: "Tênis Asics com suporte e estabilidade.",
-    image: "https://asicsbr.vteximg.com.br/arquivos/ids/2744214-1000-1000/null.jpg",
+    image: "https://artwalk.vtexassets.com/arquivos/ids/581801/03A53-7-110-1-AW-800x1000.jpg?v=638931970283670000",
     images: [
-      { src: "https://imgasics-a.akamaihd.net/360x360/0163501WA1.jpg" },
-      { src: "https://imgasics-a.akamaihd.net/360x360/0163501WA1_1.jpg" },
-      { src: "https://imgasics-a.akamaihd.net/360x360/0163501WA1_2.jpg" }
+      { src: "https://artwalk.vtexassets.com/arquivos/ids/581801/03A53-7-110-1-AW-800x1000.jpg?v=638931970283670000" },
+      { src: "https://artwalk.vtexassets.com/arquivos/ids/581802/03A53-7-110-2-AW-800x1000.jpg?v=638931970283670000" },
+      { src: "https://artwalk.vtexassets.com/arquivos/ids/581804/03A53-7-110-4-AW-800x1000.jpg?v=638931970283670000" }
     ],
     category: "Tênis",
     gender: "Unissex",
