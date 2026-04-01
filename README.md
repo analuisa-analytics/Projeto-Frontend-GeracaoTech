@@ -1,7 +1,7 @@
 # Projeto Frontend GeracaoTech
 
 ## Descrição
-O **Projeto Frontend GeracaoTech** é uma aplicação web construída com **React** e **Vite**, fornecendo uma interface moderna e responsiva para interação com funcionalidades de geração tecnológica. O projeto utiliza **Tailwind CSS** para estilização e está preparado para desenvolvimento rápido com hot-reload e boas práticas de linting.
+O **Projeto Frontend GeracaoTech** é uma aplicação web construída com **React** e **Vite**, fornecendo uma interface moderna e responsiva. O projeto utiliza **Tailwind CSS** para estilização.
 
 ---
 
@@ -31,7 +31,7 @@ Projeto-Frontend-GeracaoTech/
 Antes de executar o projeto, certifique-se de ter instalado:
 
 - **Node.js** v18 ou superior
-- **npm** ou **yarn**
+- **npm** 
 - Navegador moderno (Chrome, Firefox, Edge, etc.)
 
 Dependências principais:
@@ -87,4 +87,4 @@ git push origin minha-feature
 
 ## Licença
 
-Este projeto ainda não possui uma licença definida. Recomendamos adicionar uma licença apropriada, como MIT, caso queira compartilhar livremente.
+Este projeto está licenciado sob a licença [MIT](LICENSE).
