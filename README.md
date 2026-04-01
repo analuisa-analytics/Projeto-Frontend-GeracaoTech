@@ -6,6 +6,7 @@ O **Projeto Frontend GeracaoTech** é uma aplicação web construída com **Reac
 ---
 
 ## Estrutura do Projeto
+```
 Projeto-Frontend-GeracaoTech/
 │
 ├─ public/ # Arquivos estáticos (index.html, imagens, etc.)
@@ -21,7 +22,7 @@ Projeto-Frontend-GeracaoTech/
 ├─ tailwind.config.js # Configuração do Tailwind CSS
 ├─ eslint.config.js # Configuração do ESLint
 └─ index.html # Template principal da aplicação
-
+```
 
 ---
 
